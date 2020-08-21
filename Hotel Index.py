@@ -72,6 +72,8 @@ class MainWindow:
                 return
 
         def reset():
+            """Clears a currently filled form"""
+
             Name.set('')
             Surname.set('')
             Email.set('')
@@ -85,6 +87,8 @@ class MainWindow:
             billid.set('')
 
         def submit():
+            """Submits a filled form to save the booking in database"""
+
             a = Name.get()
             b = Surname.get()
             c = Email.get()
@@ -97,10 +101,11 @@ class MainWindow:
             addnew(a, b, c, d, e, f, g, h, i)
 
         def delete():
-            a = str(Cid.get())
-            cancel(a)
+            """Cancel an active booking by taking ID as argument """
+            cancel(str(Cid.get()))
 
         def bill():
+            """Generates a bill for a currently active booking"""
             generate_bill(billid.get())
 
         # =======================================Widgits============================================================

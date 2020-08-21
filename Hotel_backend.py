@@ -96,6 +96,7 @@ def addnew(name, surname, email, address, mobile, rtype, meal, cin, cout):
 
     if len(nolist) == 0:
         tkinter.messagebox.showerror("Error", "No Rooms Available")
+        # Shows error if room of the selected type is not available
     else:
         roomno = nolist[0][0]
         sql = "INSERT INTO hotelbookings (name, surname, email, address, mobile, roomno ,meal, cin, cout) VALUES \
@@ -122,7 +123,8 @@ def cancel(id):
     if response == 'yes':
         cursor.execute("SELECT bookingid FROM hotelbookings WHERE bookingid=%s", (id,))
         if len(cursor.fetchall()) == 0:
-            tkinter.messagebox.showerror("Error", "No Such Booking")
+            tkinter.messagebox.showerror("Error",
+                                         "No Such Booking")  # shows error if no booking is there with the given ID
         else:
             cursor.execute("DELETE FROM hotelbookings WHERE bookingid=%s", (id,))
             tkinter.messagebox.showinfo("Message", "Booking Has been Canceled")
@@ -145,12 +147,12 @@ def generate_bill(bill_id):
         cursor.execute("SELECT meal,cin,cout,roomno FROM hotelbookings WHERE bookingid=%s", (bill_id,))
         data = cursor.fetchone()
         cursor.execute("SELECT type FROM rooms where roomn=%s", (data[3],))
-        data += cursor.fetchone()
+        data += cursor.fetchone()  # gets the details of booking from the database to genarae bill
         days = (data[2] - data[1]).days
         rcost = (room[data[4]]) * days
         mcost = (meal[data[0]]) * days
 
-        bill = open('Bill_ID_' + str(bill_id), 'w+')
+        bill = open('Bill_ID_' + str(bill_id), 'w+')  # Creates a new file and generates a bill in default formatting
 
         bill.write('    HOTEL TAJ    \n')
         bill.write('\n    Bill Memo     \n')
