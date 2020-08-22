@@ -88,7 +88,6 @@ def showb():
 def addnew(name, surname, email, address, mobile, rtype, meal, cin, cout):
     """The add new function used to insert records of data in bookings table"""
 
-    global roomno
     MyDb = mysql.connector.connect(user="root", password="12345", host="localhost", database="coder01")
     cursor = MyDb.cursor()
     cursor.execute("SELECT roomn FROM rooms WHERE status=0 and type = %s", (rtype,))
@@ -104,11 +103,11 @@ def addnew(name, surname, email, address, mobile, rtype, meal, cin, cout):
         val = (name, surname, email, address, mobile, roomno, meal, cin, cout)
         cursor.execute(sql, val)
 
-    cursor.execute("SELECT bookingid,roomno FROM hotelbookings WHERE roomno=%s", (roomno,))
-    showdata = cursor.fetchall()
-    tkinter.messagebox.showinfo("ID & Room No.", "Your Booking ID is: " + str(showdata[0][0]) + " and Room No is: "
-                                + str(showdata[0][1]))
-    cursor.execute("UPDATE rooms SET status=1 WHERE roomn=%s", (roomno,))
+        cursor.execute("SELECT bookingid,roomno FROM hotelbookings WHERE roomno=%s", (roomno,))
+        showdata = cursor.fetchall()
+        tkinter.messagebox.showinfo("ID & Room No.", "Your Booking ID is: " + str(showdata[0][0]) + " and Room No is: "
+                                    + str(showdata[0][1]))
+        cursor.execute("UPDATE rooms SET status=1 WHERE roomn=%s", (roomno,))
 
     MyDb.commit()
     MyDb.close()
@@ -208,9 +207,9 @@ def show_bill(bill_id):
         lblheading2.pack()
 
         lbl_rt = Label(data_frame, text='Room Type:', bg='powder blue', font='times 16 bold')
-        lbl_rt.grid(row=1, column=0,pady=5)
+        lbl_rt.grid(row=1, column=0, pady=5)
         lbl_days = Label(data_frame, text='Meal Type: ', bg='powder blue', font='times 16 bold')
-        lbl_days.grid(row=2, column=0,pady=5)
+        lbl_days.grid(row=2, column=0, pady=5)
         lbl_meal = Label(data_frame, text='No. of Days: ', bg='powder blue', font='times 16 bold')
         lbl_meal.grid(row=3, column=0, pady=5)
         lbl_rcost = Label(data_frame, text='Room Cost: ', bg='powder blue', font='times 16 bold')
