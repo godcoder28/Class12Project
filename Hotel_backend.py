@@ -14,7 +14,7 @@ def daily_taasks():
     MyDb.close()
 
 
-def showbookings():
+def showb():
     """Function to show the bookings currently active in a tabular form"""
 
     MyDb = mysql.connector.connect(user="root", password="12345", host="localhost", database="coder01")
@@ -148,13 +148,10 @@ def show_bill(bill_id):
         bill.write(str(days))
         bill.write('\n Meal:  ')
         bill.write(data[0])
-
         bill.write('\n\n Room Cost:  ')
         bill.write(str(rcost))
-
         bill.write('\n Meal Cost:  ')
         bill.write(str(mcost))
-
         bill.write('\n\n Grand Total:  ')
         bill.write(str(rcost + mcost))
         bill.close()
@@ -207,43 +204,42 @@ def show_bill(bill_id):
         lblheading = Label(heading, text='HOTEL TAJ', font='times 36 bold', bg='ghost white')
         lblheading.pack()
 
-        lblheading2 = Label(headinh_2, text='  Bill Memo  ', bg='cadet blue', font='times 25 bold',
-                            relief='solid').pack()
+        lblheading2 = Label(headinh_2, text='  Bill Memo  ', bg='cadet blue', font='times 25 bold', relief='solid')
+        lblheading2.pack()
 
-        lbl_rt = Label(data_frame, text='Room Type:', bg='powder blue', font='times 16 bold').grid(row=1, column=0,
-                                                                                                   pady=5)
-        lbl_days = Label(data_frame, text='Meal Type: ', bg='powder blue', font='times 16 bold').grid(row=2, column=0,
-                                                                                                      pady=5)
-        lbl_meal = Label(data_frame, text='No. of Days: ', bg='powder blue', font='times 16 bold').grid(row=3, column=0,
-                                                                                                        pady=5)
-        lbl_rcost = Label(data_frame, text='Room Cost: ', bg='powder blue', font='times 16 bold').grid(row=5, column=0,
-                                                                                                       pady=5)
-        lbl_mcost = Label(data_frame, text='Meal Cost: ', bg='powder blue', font='times 16 bold').grid(row=6, column=0,
-                                                                                                       pady=5)
-        lbl_gtotal = Label(data_frame, text='Grand Total: ', bg='powder blue', font='times 20 bold').grid(row=8,
-                                                                                                          column=0,
-                                                                                                          pady=5)
+        lbl_rt = Label(data_frame, text='Room Type:', bg='powder blue', font='times 16 bold')
+        lbl_rt.grid(row=1, column=0,pady=5)
+        lbl_days = Label(data_frame, text='Meal Type: ', bg='powder blue', font='times 16 bold')
+        lbl_days.grid(row=2, column=0,pady=5)
+        lbl_meal = Label(data_frame, text='No. of Days: ', bg='powder blue', font='times 16 bold')
+        lbl_meal.grid(row=3, column=0, pady=5)
+        lbl_rcost = Label(data_frame, text='Room Cost: ', bg='powder blue', font='times 16 bold')
+        lbl_rcost.grid(row=5, column=0, pady=5)
+        lbl_mcost = Label(data_frame, text='Meal Cost: ', bg='powder blue', font='times 16 bold')
+        lbl_mcost.grid(row=6, column=0, pady=5)
+        lbl_gtotal = Label(data_frame, text='Grand Total: ', bg='powder blue', font='times 20 bold')
+        lbl_gtotal.grid(row=8, column=0, pady=5)
 
-        lbl_rt_value = Label(data_frame, text=data[4].title(), bg='powder blue', font='times 16 bold').grid(row=1,
-                                                                                                            column=1,
-                                                                                                            pady=5)
-        lbl_days_value = Label(data_frame, text=data[0], bg='powder blue', font='times 16 bold').grid(row=2, column=1,
-                                                                                                      pady=5)
-        lbl_meal_value = Label(data_frame, text=str(days), bg='powder blue', font='times 16 bold').grid(row=3, column=1,
-                                                                                                        pady=5)
-        lbl_rcost_value = Label(data_frame, text=str(rcost), bg='powder blue', font='times 16 bold').grid(row=5,
-                                                                                                          column=1,
-                                                                                                          pady=5)
-        lbl_mcost_value = Label(data_frame, text=str(mcost), bg='powder blue', font='times 16 bold').grid(row=6,
-                                                                                                          column=1,
-                                                                                                          pady=5)
-        lbl_gtotal_value = Label(data_frame, text=str(rcost + mcost) + '/-', bg='powder blue',
-                                 font='times 20 bold').grid(row=8, column=1, pady=5)
+        lbl_rt_value = Label(data_frame, text=data[4].title(), bg='powder blue', font='times 16 bold')
+        lbl_rt_value.grid(row=1, column=1, pady=5)
+        lbl_days_value = Label(data_frame, text=data[0], bg='powder blue', font='times 16 bold')
+        lbl_days_value.grid(row=2, column=1, pady=5)
+        lbl_meal_value = Label(data_frame, text=str(days), bg='powder blue', font='times 16 bold')
+        lbl_meal_value.grid(row=3, column=1, pady=5)
+        lbl_rcost_value = Label(data_frame, text=str(rcost), bg='powder blue', font='times 16 bold')
+        lbl_rcost_value.grid(row=5, column=1, pady=5)
+        lbl_mcost_value = Label(data_frame, text=str(mcost), bg='powder blue', font='times 16 bold')
+        lbl_mcost_value.grid(row=6, column=1, pady=5)
+        lbl_gtotal_value = Label(data_frame, text=str(rcost + mcost) + '/-', bg='powder blue', font='times 20 bold')
+        lbl_gtotal_value.grid(row=8, column=1, pady=5)
 
         btnquit = Button(data_frame, bd=4, text='Quit', height=1, width=13, font='arial 16', bg='cadet blue',
-                         activeforeground="dark blue", command=quitwin).grid(row=9, column=0, pady=20)
+                         activeforeground="dark blue", command=quitwin)
+        btnquit.grid(row=9, column=0, pady=20)
+
         btnbill = Button(data_frame, bd=4, text='Save Bill', height=1, width=13, font='arial 16', bg='cadet blue',
-                         activeforeground="dark blue", command=generate_bill).grid(row=9, column=1, pady=20)
+                         activeforeground="dark blue", command=generate_bill)
+        btnbill.grid(row=9, column=1, pady=20)
 
     MyDb.close()
 
