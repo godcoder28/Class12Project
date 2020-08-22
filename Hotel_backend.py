@@ -132,32 +132,19 @@ def cancel(id):
     MyDb.close()
 
 
-def generate_bill(bill_id):
-    """Generates bill for the given booking ID by fetching details from the database"""
+def show_bill(bill_id):
 
-    meal = {'Breakfast': 250, 'Dinner': 230, 'Combo': 450, 'All three': 550}
-    room = {'single deluxe': 2000, 'double deluxe': 2500, 'executive': 3000, 'suit': 5000}
+    def quitwin():
+        Bill.destroy()
 
-    MyDb = mysql.connector.connect(user="root", password="12345", host="localhost", database="coder01")
-    cursor = MyDb.cursor()
-    cursor.execute("SELECT bookingid FROM hotelbookings WHERE bookingid=%s", (bill_id,))
-    if len(cursor.fetchall()) == 0:
-        tkinter.messagebox.showerror("Error", "No Such Booking / Booking is over")
-    else:
-        cursor.execute("SELECT meal,cin,cout,roomno FROM hotelbookings WHERE bookingid=%s", (bill_id,))
-        data = cursor.fetchone()
-        cursor.execute("SELECT type FROM rooms where roomn=%s", (data[3],))
-        data += cursor.fetchone()  # gets the details of booking from the database to genarae bill
-        days = (data[2] - data[1]).days
-        rcost = (room[data[4]]) * days
-        mcost = (meal[data[0]]) * days
-
+    def generate_bill():
+        """Generates bill for the given booking ID by fetching details from the database"""
+        quitwin()
         bill = open('Bill_ID_' + str(bill_id), 'w+')  # Creates a new file and generates a bill in default formatting
-
         bill.write('    HOTEL TAJ    \n')
         bill.write('\n    Bill Memo     \n')
         bill.write('\n Room Type:  ')
-        bill.write(data[4])
+        bill.write(data[4].title())
         bill.write('\n Days:  ')
         bill.write(str(days))
         bill.write('\n Meal:  ')
@@ -174,8 +161,76 @@ def generate_bill(bill_id):
         bill.close()
 
         tkinter.messagebox.showinfo("Message", "Bill Has Been Saved Locally")
-    MyDb.close()
 
+
+    meal = {'Breakfast': 250, 'Dinner': 230, 'Combo': 450, 'All three': 550}
+    room = {'single deluxe': 2000, 'double deluxe': 2500, 'executive': 3000, 'suit': 5000}
+
+    MyDb = mysql.connector.connect(user="root", password="12345", host="localhost", database="coder01")
+    cursor = MyDb.cursor()
+    cursor.execute("SELECT bookingid FROM hotelbookings WHERE bookingid=%s", (bill_id,))
+
+    if len(cursor.fetchall()) == 0:
+        tkinter.messagebox.showerror("Error", "No Such Booking / Booking is over")
+    else:
+        cursor.execute("SELECT meal,cin,cout,roomno FROM hotelbookings WHERE bookingid=%s", (bill_id,))
+        data = cursor.fetchone()
+        cursor.execute("SELECT type FROM rooms where roomn=%s", (data[3],))
+        data += cursor.fetchone()  # gets the details of booking from the database to genarae bill
+        days = (data[2] - data[1]).days
+        rcost = (room[data[4]]) * days
+        mcost = (meal[data[0]]) * days
+
+        # ==================================================================================================
+
+        Bill = Tk()
+        Bill.title("Hotel Management System")
+
+        mainframe = Frame(Bill, bg='powder blue', padx=10)
+        mainframe.pack()
+
+        topframe = Frame(mainframe, bd=14, relief='ridge', bg='ghost white', padx=40, pady=5)
+        topframe.pack(pady=15)
+
+        heading = Frame(topframe, bg='ghost white', padx=50)
+        heading.pack()
+
+        content = Frame(mainframe, bd=8, relief='ridge', bg='powder blue', padx=80)
+        content.pack(pady=15)
+
+        headinh_2 = Frame(content,bg='powder blue', padx=30, pady=20)
+        headinh_2.pack(side=TOP)
+
+        data_frame = Frame(content, bg='powder blue', padx=30)
+        data_frame.pack(side=BOTTOM)
+
+        # =======================================================================================================
+
+        lblheading = Label(heading, text='HOTEL TAJ', font='times 36 bold', bg='ghost white')
+        lblheading.pack()
+
+        lblheading2 = Label(headinh_2, text='  Bill Memo  ', bg='cadet blue', font='times 25 bold', relief='solid').pack()
+
+        lbl_rt = Label(data_frame, text='Room Type:', bg='powder blue', font='times 16 bold').grid(row=1, column=0, pady=5)
+        lbl_days = Label(data_frame, text='Meal Type: ', bg='powder blue', font='times 16 bold').grid(row=2, column=0, pady=5)
+        lbl_meal = Label(data_frame, text='No. of Days: ', bg='powder blue', font='times 16 bold').grid(row=3, column=0, pady=5)
+        lbl_rcost = Label(data_frame, text='Room Cost: ', bg='powder blue', font='times 16 bold').grid(row=5, column=0, pady=5)
+        lbl_mcost = Label(data_frame, text='Meal Cost: ', bg='powder blue', font='times 16 bold').grid(row=6, column=0, pady=5)
+        lbl_gtotal = Label(data_frame, text='Grand Total: ', bg='powder blue', font='times 20 bold').grid(row=8, column=0, pady=5)
+
+        lbl_rt_value = Label(data_frame, text=data[4].title(), bg='powder blue', font='times 16 bold').grid(row=1, column=1, pady=5)
+        lbl_days_value = Label(data_frame, text=data[0], bg='powder blue', font='times 16 bold').grid(row=2, column=1, pady=5)
+        lbl_meal_value = Label(data_frame, text=str(days), bg='powder blue', font='times 16 bold').grid(row=3, column=1, pady=5)
+        lbl_rcost_value = Label(data_frame, text=str(rcost), bg='powder blue', font='times 16 bold').grid(row=5, column=1, pady=5)
+        lbl_mcost_value = Label(data_frame, text=str(mcost), bg='powder blue', font='times 16 bold').grid(row=6, column=1, pady=5)
+        lbl_gtotal_value = Label(data_frame, text=str(rcost + mcost) + '/-', bg='powder blue', font='times 20 bold').grid(row=8, column=1, pady=5)
+
+        btnquit = Button(data_frame, bd=4, text='Quit', height=1, width=13, font='arial 16', bg='cadet blue',
+                         activeforeground="dark blue", command=quitwin).grid(row=9, column=0, pady=20)
+        btnbill = Button(data_frame, bd=4, text='Save Bill', height=1, width=13, font='arial 16', bg='cadet blue',
+                         activeforeground="dark blue", command=generate_bill).grid(row=9, column=1, pady=20)
+
+    MyDb.close()
 
 if __name__ == 'Hotel_backend':
     daily_taasks()

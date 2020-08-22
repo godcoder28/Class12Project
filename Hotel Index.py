@@ -106,7 +106,7 @@ class MainWindow:
 
         def bill():
             """Generates a bill for a currently active booking"""
-            generate_bill(billid.get())
+            show_bill(billid.get())
 
         # =======================================Widgits============================================================
 

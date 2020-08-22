@@ -19,10 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f914f33f-d835-4de8-8b70-221e682dc103" name="Default Changelist" comment="Docstrings and comments added" />
-    <list id="2ac480eb-15ba-4c64-a9f4-6197570adfc5" name="Docstrings and comments added" comment="">
+    <list default="true" id="f914f33f-d835-4de8-8b70-221e682dc103" name="Default Changelist" comment="Docstrings and comments added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bill_ID_12" beforeDir="false" afterPath="$PROJECT_DIR$/Bill_ID_12" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hotel Index.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hotel Index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hotel_backend.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hotel_backend.py" afterDir="false" />
     </list>
+    <list id="2ac480eb-15ba-4c64-a9f4-6197570adfc5" name="Docstrings and comments added" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -297,6 +300,7 @@
       <workItem from="1597930371644" duration="702000" />
       <workItem from="1597989311144" duration="620000" />
       <workItem from="1597991699412" duration="992000" />
+      <workItem from="1598098396331" duration="3890000" />
     </task>
     <task id="LOCAL-00001" summary="Created new Project">
       <created>1587912384441</created>
@@ -577,22 +581,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594269632795" />
-    <state width="746" height="295" key="GridCell.Tab.0.bottom" timestamp="1597933947641">
+    <state width="778" height="224" key="GridCell.Tab.0.bottom" timestamp="1598103457553">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="295" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597933947641" />
-    <state width="746" height="295" key="GridCell.Tab.0.center" timestamp="1597933947641">
+    <state width="778" height="224" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598103457553" />
+    <state width="778" height="224" key="GridCell.Tab.0.center" timestamp="1598103457553">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="295" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597933947641" />
-    <state width="746" height="295" key="GridCell.Tab.0.left" timestamp="1597933947641">
+    <state width="778" height="224" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598103457553" />
+    <state width="778" height="224" key="GridCell.Tab.0.left" timestamp="1598103457553">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="295" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597933947641" />
-    <state width="746" height="295" key="GridCell.Tab.0.right" timestamp="1597933947641">
+    <state width="778" height="224" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598103457553" />
+    <state width="778" height="224" key="GridCell.Tab.0.right" timestamp="1598103457553">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="295" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597933947641" />
+    <state width="778" height="224" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598103457553" />
     <state width="1493" height="190" key="GridCell.Tab.1.bottom" timestamp="1597331400805">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -656,6 +660,6 @@
     <SUITE FILE_PATH="coverage/Class12project$Bubble_Pop.coverage" NAME="Bubble Pop Coverage Results" MODIFIED="1597688767548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Python Codes" />
     <SUITE FILE_PATH="coverage/Class12project$frame_test.coverage" NAME="frame test Coverage Results" MODIFIED="1588166162159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Class12project$file_handeling.coverage" NAME="file handeling Coverage Results" MODIFIED="1597331214400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Python Codes" />
-    <SUITE FILE_PATH="coverage/Class12project$Hotel_Index.coverage" NAME="Hotel Index Coverage Results" MODIFIED="1597930372671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Class12project$Hotel_Index.coverage" NAME="Hotel Index Coverage Results" MODIFIED="1598103457545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
