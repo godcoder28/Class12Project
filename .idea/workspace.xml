@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="4" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -19,10 +22,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f914f33f-d835-4de8-8b70-221e682dc103" name="Default Changelist" comment="Pep formatting">
+    <list default="true" id="f914f33f-d835-4de8-8b70-221e682dc103" name="Default Changelist" comment="">
+      <change afterPath="$USER_HOME$/Desktop/Python Codes/contacts.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/Python Codes/f.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Hotel Management System/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/Desktop/Hotel Management System/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/file handeling.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/file handeling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_18_2020_8_36_AM_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_18_2020_8_36_AM__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hotel Index.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hotel Index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hotel_backend.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hotel_backend.py" afterDir="false" />
     </list>
     <list id="2ac480eb-15ba-4c64-a9f4-6197570adfc5" name="Docstrings and comments added" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +61,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Desktop/Python Codes" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GithubDefaultAccount">
@@ -92,7 +100,7 @@
       <recent name="C:\Users\shiva\Documents\Class12project" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Hotel Index">
+  <component name="RunManager" selected="Python.Selenium_automation">
     <configuration name="Bubble Game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Class12project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,28 +115,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bubble Game.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Bubble Pop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python Codes" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/Python Codes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/Python Codes/Bubble Pop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,6 +139,25 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hotel Index.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Selenium_automation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Codes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/Python Codes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/Python Codes/Selenium_automation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -229,17 +234,17 @@
       <item itemvalue="Python.python" />
       <item itemvalue="Python.Hotel Index" />
       <item itemvalue="Python.file handeling" />
-      <item itemvalue="Python.Bubble Pop" />
       <item itemvalue="Python.Bubble Game" />
       <item itemvalue="Python.Test" />
+      <item itemvalue="Python.Selenium_automation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Selenium_automation" />
+        <item itemvalue="Python.file handeling" />
         <item itemvalue="Python.Hotel Index" />
         <item itemvalue="Python.Test" />
         <item itemvalue="Python.Bubble Game" />
-        <item itemvalue="Python.Bubble Pop" />
-        <item itemvalue="Python.file handeling" />
       </list>
     </recent_temporary>
   </component>
@@ -302,7 +307,13 @@
       <workItem from="1597930371644" duration="702000" />
       <workItem from="1597989311144" duration="620000" />
       <workItem from="1597991699412" duration="992000" />
-      <workItem from="1598098396331" duration="5664000" />
+      <workItem from="1598098396331" duration="6028000" />
+      <workItem from="1598336882499" duration="1053000" />
+      <workItem from="1598377489498" duration="611000" />
+      <workItem from="1598598132241" duration="2718000" />
+      <workItem from="1598606832801" duration="7272000" />
+      <workItem from="1598624723354" duration="1244000" />
+      <workItem from="1598636880814" duration="1656000" />
     </task>
     <task id="LOCAL-00001" summary="Created new Project">
       <created>1587912384441</created>
@@ -507,7 +518,21 @@
       <option name="project" value="LOCAL" />
       <updated>1598103727227</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Pep formatting">
+      <created>1598105237696</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1598105237696</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Changes">
+      <created>1598105514492</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1598105514492</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -555,7 +580,8 @@
     <MESSAGE value="Docstrings and comments added" />
     <MESSAGE value="Bill Preview Function added" />
     <MESSAGE value="Pep formatting" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pep formatting" />
+    <MESSAGE value="Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="395" y="91" key="#Inspections" timestamp="1594568692311">
@@ -586,10 +612,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1596599649229" />
-    <state x="393" y="0" width="750" height="460" key="CommitChangelistDialog2" timestamp="1598103772972">
+    <state x="393" y="0" width="750" height="460" key="CommitChangelistDialog2" timestamp="1598105513989">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="0" width="750" height="460" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1598103772972" />
+    <state x="393" y="0" width="750" height="460" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1598105513989" />
     <state x="147" y="65" width="1228" height="687" key="DiffContextDialog" timestamp="1594568692935">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -602,22 +628,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="629" y="325" key="Github.Dialog.Accounts.Choose/0.0.1536.824@0.0.1536.824" timestamp="1598103735582" />
-    <state width="1493" height="192" key="GridCell.Tab.0.bottom" timestamp="1598105212130">
+    <state width="765" height="202" key="GridCell.Tab.0.bottom" timestamp="1598337937198">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="192" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598105212130" />
-    <state width="1493" height="192" key="GridCell.Tab.0.center" timestamp="1598105212130">
+    <state width="765" height="202" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598337937198" />
+    <state width="765" height="202" key="GridCell.Tab.0.center" timestamp="1598337937197">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="192" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598105212130" />
-    <state width="1493" height="192" key="GridCell.Tab.0.left" timestamp="1598105212130">
+    <state width="765" height="202" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598337937197" />
+    <state width="765" height="202" key="GridCell.Tab.0.left" timestamp="1598337937197">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="192" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598105212130" />
-    <state width="1493" height="192" key="GridCell.Tab.0.right" timestamp="1598105212130">
+    <state width="765" height="202" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598337937197" />
+    <state width="765" height="202" key="GridCell.Tab.0.right" timestamp="1598337937198">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="192" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598105212130" />
+    <state width="765" height="202" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598337937198" />
     <state width="1493" height="190" key="GridCell.Tab.1.bottom" timestamp="1597331400805">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -680,7 +706,7 @@
     <SUITE FILE_PATH="coverage/Class12project$lib.coverage" NAME="lib Coverage Results" MODIFIED="1588225212493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Class12project$Bubble_Pop.coverage" NAME="Bubble Pop Coverage Results" MODIFIED="1597688767548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Python Codes" />
     <SUITE FILE_PATH="coverage/Class12project$frame_test.coverage" NAME="frame test Coverage Results" MODIFIED="1588166162159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Class12project$file_handeling.coverage" NAME="file handeling Coverage Results" MODIFIED="1597331214400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Python Codes" />
+    <SUITE FILE_PATH="coverage/Class12project$file_handeling.coverage" NAME="file handeling Coverage Results" MODIFIED="1598337645477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Python Codes" />
     <SUITE FILE_PATH="coverage/Class12project$Hotel_Index.coverage" NAME="Hotel Index Coverage Results" MODIFIED="1598104878509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
