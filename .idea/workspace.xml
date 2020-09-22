@@ -23,14 +23,63 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f914f33f-d835-4de8-8b70-221e682dc103" name="Default Changelist" comment="">
-      <change afterPath="$USER_HOME$/Desktop/Python Codes/Compound Interest.py" afterDir="false" />
-      <change afterPath="$USER_HOME$/Desktop/Python Codes/binary.py" afterDir="false" />
-      <change afterPath="$USER_HOME$/Desktop/Python Codes/bubble.py" afterDir="false" />
-      <change afterPath="$USER_HOME$/Desktop/Python Codes/shifting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bill_ID_13" afterDir="false" />
-      <change beforePath="$USER_HOME$/Desktop/Python Codes/Selenium_automation.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/Selenium_automation.py" afterDir="false" />
-      <change beforePath="$USER_HOME$/Desktop/Python Codes/binary search.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/binary search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/+ve_-ve.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/+ve_-ve.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/1-10 table.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/1-10 table.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/5 elements dictionary.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/5 elements dictionary.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/54321.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/54321.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/Binary Search Recursive.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/Binary Search Recursive.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/Bubble Pop.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/Bubble Pop.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/Bubble sort.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/Bubble sort.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/Celcius_farenheit.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/Celcius_farenheit.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/Cm_inch.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/Cm_inch.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/Compound Interest.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/Compound Interest.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/Menu operations.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/Menu operations.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/Odd_even.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/Odd_even.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/Pallindrome no..py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/Pallindrome no..py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/Pallindrome str.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/Pallindrome str.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/Pallindrome.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/Pallindrome.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/Roots of quadratic.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/Roots of quadratic.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/SHIVANG GUPTA PRACTICAL Q1.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/SHIVANG GUPTA PRACTICAL Q1.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/SHIVANG GUPTA PRACTICAL SET 2 Q2.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/SHIVANG GUPTA PRACTICAL SET 2 Q2.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/Sale_commision.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/Sale_commision.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/Selenium_automation.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/Si_ci.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/Si_ci.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/Sum of squares.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/Sum of squares.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/_age.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/_age.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/ap sum pattern.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/ap sum pattern.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/area of circle.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/area of circle.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/area of square  triangle.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/area of square  triangle.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/armstrong.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/armstrong.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/bin search.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/bin search.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/contacts.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/contacts.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/even nos.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/even nos.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/facto series.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/facto series.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/factorial.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/factorial.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/fibonacci series.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/fibonacci series.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/file handeling.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/file handeling.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/insertion sort.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/insertion sort.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/lar small 3 numbers.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/lar small 3 numbers.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/lcm.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/lcm.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/leapyeaar.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/leapyeaar.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/linear search.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/linear search.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/max-min list.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/max-min list.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/menu.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/menu.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/nos ending 3.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/nos ending 3.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/odd squares.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/odd squares.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/odd stars series.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/odd stars series.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/print string.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/print string.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/remainder quotient.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/remainder quotient.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/reverse list.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/reverse list.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/series 1234   123    12   1.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/series 1234   123    12   1.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/shifting.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/shifting.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/square series.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/square series.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/star pattern.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/star pattern.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/str with a.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/str with a.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/sum of 2 digits.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/sum of 2 digits.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/sum of n numbers.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/sum of n numbers.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/sum of odd nos.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/sum of odd nos.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/voting age.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/voting age.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/vowel.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/vowel.py" afterDir="false" />
     </list>
     <list id="2ac480eb-15ba-4c64-a9f4-6197570adfc5" name="Docstrings and comments added" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -327,7 +376,7 @@
       <workItem from="1599721263932" duration="534000" />
       <workItem from="1600699031755" duration="1009000" />
       <workItem from="1600715950023" duration="3072000" />
-      <workItem from="1600760964829" duration="2101000" />
+      <workItem from="1600760964829" duration="2540000" />
     </task>
     <task id="LOCAL-00001" summary="Created new Project">
       <created>1587912384441</created>
@@ -553,7 +602,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598638712793</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="class 12 hy practice">
+      <created>1600763121482</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1600763121482</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -603,7 +659,8 @@
     <MESSAGE value="Pep formatting" />
     <MESSAGE value="Changes" />
     <MESSAGE value="Selenium trial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Selenium trial" />
+    <MESSAGE value="class 12 hy practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="class 12 hy practice" />
   </component>
   <component name="WindowStateProjectService">
     <state x="395" y="91" key="#Inspections" timestamp="1594568692311">
@@ -634,10 +691,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1596599649229" />
-    <state x="393" y="0" width="750" height="460" key="CommitChangelistDialog2" timestamp="1598638710787">
+    <state x="393" y="0" width="750" height="460" key="CommitChangelistDialog2" timestamp="1600763119327">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="0" width="750" height="460" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1598638710787" />
+    <state x="393" y="0" width="750" height="460" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1600763119327" />
     <state x="147" y="65" width="1228" height="687" key="DiffContextDialog" timestamp="1594568692935">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -650,22 +707,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="629" y="325" key="Github.Dialog.Accounts.Choose/0.0.1536.824@0.0.1536.824" timestamp="1598103735582" />
-    <state width="741" height="207" key="GridCell.Tab.0.bottom" timestamp="1600763043044">
+    <state width="750" height="234" key="GridCell.Tab.0.bottom" timestamp="1600763502549">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="741" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600763043044" />
-    <state width="741" height="207" key="GridCell.Tab.0.center" timestamp="1600763043043">
+    <state width="750" height="234" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600763502549" />
+    <state width="750" height="234" key="GridCell.Tab.0.center" timestamp="1600763502549">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="741" height="207" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600763043043" />
-    <state width="741" height="207" key="GridCell.Tab.0.left" timestamp="1600763043043">
+    <state width="750" height="234" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600763502549" />
+    <state width="750" height="234" key="GridCell.Tab.0.left" timestamp="1600763502549">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="741" height="207" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600763043043" />
-    <state width="741" height="207" key="GridCell.Tab.0.right" timestamp="1600763043044">
+    <state width="750" height="234" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600763502549" />
+    <state width="750" height="234" key="GridCell.Tab.0.right" timestamp="1600763502549">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="741" height="207" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600763043044" />
+    <state width="750" height="234" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600763502549" />
     <state width="1493" height="190" key="GridCell.Tab.1.bottom" timestamp="1597331400805">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -694,10 +751,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="618" y="326" key="VCS.ChangelistChooser/0.0.1536.824@0.0.1536.824" timestamp="1597992588641" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1598638719488">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600763143640">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1598638719488" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600763143640" />
     <state x="512" y="146" key="VcsDiffUtil.ChangesDialog" timestamp="1594568335569">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -725,7 +782,7 @@
     <SUITE FILE_PATH="coverage/Class12project$shifting.coverage" NAME="shifting Coverage Results" MODIFIED="1600699410937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Python Codes" />
     <SUITE FILE_PATH="coverage/Class12project$lib.coverage" NAME="lib Coverage Results" MODIFIED="1588225212493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Class12project$frame_test.coverage" NAME="frame test Coverage Results" MODIFIED="1588166162159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Class12project$binary.coverage" NAME="binary Coverage Results" MODIFIED="1600763043025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Python Codes" />
+    <SUITE FILE_PATH="coverage/Class12project$binary.coverage" NAME="binary Coverage Results" MODIFIED="1600763502535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Python Codes" />
     <SUITE FILE_PATH="coverage/Class12project$Hotel_Index.coverage" NAME="Hotel Index Coverage Results" MODIFIED="1599721335201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Class12project$python.coverage" NAME="python Coverage Results" MODIFIED="1587911806173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/Class12project$Hotel_backend.coverage" NAME="Hotel_backend Coverage Results" MODIFIED="1587976580496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
