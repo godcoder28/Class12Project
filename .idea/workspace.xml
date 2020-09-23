@@ -22,12 +22,25 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f914f33f-d835-4de8-8b70-221e682dc103" name="Default Changelist" comment="class 12 hy practice">
-      <change afterPath="$USER_HOME$/Desktop/Python Codes/bin test.py" afterDir="false" />
-      <change afterPath="$USER_HOME$/Desktop/Python Codes/modified.txt" afterDir="false" />
-      <change afterPath="$USER_HOME$/Desktop/Python Codes/remove line.py" afterDir="false" />
+    <list default="true" id="f914f33f-d835-4de8-8b70-221e682dc103" name="Default Changelist" comment="">
       <change beforePath="$USER_HOME$/Desktop/Python Codes/Binary Search Recursive.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/Binary Search Recursive.py" afterDir="false" />
-      <change beforePath="$USER_HOME$/Desktop/Python Codes/text.txt" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/text.txt" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/FILE QUESTIONS.docx" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/SHIVANG GUPTA PRACTICAL Q1.exe" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/SHIVANG GUPTA PRACTICAL Q1.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/SHIVANG GUPTA PRACTICAL SET 2 Q2.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/Term 1 codes.docx" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/_age.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/Python Codes/age.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/abc.txt" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/book.txt" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/connect.txt" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/demo.txt" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/f.txt" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/file handeling.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/modified.txt" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/tesdt.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/test" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/text.txt" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Python Codes/xy.dat" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +113,7 @@
       <recent name="C:\Users\shiva\Documents\Class12project" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.bin search">
+  <component name="RunManager" selected="Python.Binary Search Recursive">
     <configuration name="Binary Search Recursive" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Codes" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -243,8 +256,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.bin search" />
         <item itemvalue="Python.Binary Search Recursive" />
+        <item itemvalue="Python.bin search" />
         <item itemvalue="Python.bin test" />
         <item itemvalue="Python.remove line" />
         <item itemvalue="Python.binary" />
@@ -324,7 +337,9 @@
       <workItem from="1600699031755" duration="1009000" />
       <workItem from="1600715950023" duration="3072000" />
       <workItem from="1600760964829" duration="3801000" />
-      <workItem from="1600784159425" duration="8668000" />
+      <workItem from="1600784159425" duration="8855000" />
+      <workItem from="1600828152491" duration="4734000" />
+      <workItem from="1600842230712" duration="2596000" />
     </task>
     <task id="LOCAL-00001" summary="Created new Project">
       <created>1587912384441</created>
@@ -571,7 +586,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600763607317</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="class 12 hy practice-2">
+      <created>1600798792166</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1600798792166</updated>
+    </task>
+    <task id="LOCAL-00037" summary="class 12 hy practice-3">
+      <created>1600798939379</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1600798939379</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -622,7 +651,9 @@
     <MESSAGE value="Changes" />
     <MESSAGE value="Selenium trial" />
     <MESSAGE value="class 12 hy practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="class 12 hy practice" />
+    <MESSAGE value="class 12 hy practice-2" />
+    <MESSAGE value="class 12 hy practice-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="class 12 hy practice-3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="395" y="91" key="#Inspections" timestamp="1594568692311">
@@ -653,10 +684,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1600767518199" />
-    <state x="393" y="0" width="750" height="824" key="CommitChangelistDialog2" timestamp="1600763625747">
+    <state x="393" y="0" width="750" height="824" key="CommitChangelistDialog2" timestamp="1600798937397">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="0" width="750" height="824" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1600763625747" />
+    <state x="393" y="0" width="750" height="824" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1600798937397" />
     <state x="147" y="65" width="1228" height="687" key="DiffContextDialog" timestamp="1594568692935">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -669,38 +700,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="629" y="325" key="Github.Dialog.Accounts.Choose/0.0.1536.824@0.0.1536.824" timestamp="1598103735582" />
-    <state width="743" height="207" key="GridCell.Tab.0.bottom" timestamp="1600798758989">
+    <state width="1493" height="240" key="GridCell.Tab.0.bottom" timestamp="1600844108846">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="743" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600798758989" />
-    <state width="743" height="207" key="GridCell.Tab.0.center" timestamp="1600798758988">
+    <state width="1493" height="240" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600844108846" />
+    <state width="1493" height="240" key="GridCell.Tab.0.center" timestamp="1600844108845">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="743" height="207" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600798758988" />
-    <state width="743" height="207" key="GridCell.Tab.0.left" timestamp="1600798758988">
+    <state width="1493" height="240" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600844108845" />
+    <state width="1493" height="240" key="GridCell.Tab.0.left" timestamp="1600844108845">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="743" height="207" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600798758988" />
-    <state width="743" height="207" key="GridCell.Tab.0.right" timestamp="1600798758988">
+    <state width="1493" height="240" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600844108845" />
+    <state width="1493" height="240" key="GridCell.Tab.0.right" timestamp="1600844108846">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="743" height="207" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600798758988" />
-    <state width="746" height="190" key="GridCell.Tab.1.bottom" timestamp="1600798189560">
+    <state width="1493" height="240" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600844108846" />
+    <state width="746" height="190" key="GridCell.Tab.1.bottom" timestamp="1600798966005">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="190" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600798189560" />
-    <state width="746" height="190" key="GridCell.Tab.1.center" timestamp="1600798189559">
+    <state width="746" height="190" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600798966005" />
+    <state width="746" height="190" key="GridCell.Tab.1.center" timestamp="1600798966005">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="190" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600798189559" />
-    <state width="746" height="190" key="GridCell.Tab.1.left" timestamp="1600798189559">
+    <state width="746" height="190" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600798966005" />
+    <state width="746" height="190" key="GridCell.Tab.1.left" timestamp="1600798966004">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="190" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600798189559" />
-    <state width="746" height="190" key="GridCell.Tab.1.right" timestamp="1600798189559">
+    <state width="746" height="190" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600798966004" />
+    <state width="746" height="190" key="GridCell.Tab.1.right" timestamp="1600798966005">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="190" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600798189559" />
+    <state width="746" height="190" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600798966005" />
     <state x="111" y="47" key="SettingsEditor" timestamp="1594615676584">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -713,10 +744,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="618" y="326" key="VCS.ChangelistChooser/0.0.1536.824@0.0.1536.824" timestamp="1597992588641" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600763611518">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600798948527">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600763611518" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600798948527" />
     <state x="512" y="146" key="VcsDiffUtil.ChangesDialog" timestamp="1594568335569">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -747,11 +778,12 @@
     <SUITE FILE_PATH="coverage/Class12project$bubble.coverage" NAME="bubble Coverage Results" MODIFIED="1600716471930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Python Codes" />
     <SUITE FILE_PATH="coverage/Class12project$remove_line.coverage" NAME="remove line Coverage Results" MODIFIED="1600789547886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Python Codes" />
     <SUITE FILE_PATH="coverage/Class12project$shifting.coverage" NAME="shifting Coverage Results" MODIFIED="1600699410937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Python Codes" />
-    <SUITE FILE_PATH="coverage/Class12project$Binary_Search_Recursive.coverage" NAME="Binary Search Recursive Coverage Results" MODIFIED="1600798758964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Python Codes" />
+    <SUITE FILE_PATH="coverage/Class12project$Binary_Search_Recursive.coverage" NAME="Binary Search Recursive Coverage Results" MODIFIED="1600843456066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Python Codes" />
     <SUITE FILE_PATH="coverage/Class12project$lib.coverage" NAME="lib Coverage Results" MODIFIED="1588225212493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Class12project$frame_test.coverage" NAME="frame test Coverage Results" MODIFIED="1588166162159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Class12project$binary.coverage" NAME="binary Coverage Results" MODIFIED="1600767429451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Python Codes" />
     <SUITE FILE_PATH="coverage/Class12project$Hotel_Index.coverage" NAME="Hotel Index Coverage Results" MODIFIED="1599721335201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Class12project$bin_search.coverage" NAME="bin search Coverage Results" MODIFIED="1600798880660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Python Codes" />
     <SUITE FILE_PATH="coverage/Class12project$python.coverage" NAME="python Coverage Results" MODIFIED="1587911806173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/Class12project$Hotel_backend.coverage" NAME="Hotel_backend Coverage Results" MODIFIED="1587976580496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Class12project$Bubble_Game.coverage" NAME="Bubble Game Coverage Results" MODIFIED="1597865650660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
