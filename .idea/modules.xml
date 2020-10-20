@@ -3,8 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Class12project.iml" filepath="$PROJECT_DIR$/.idea/Class12project.iml" />
-      <module fileurl="file://$USER_HOME$/Desktop/Hotel Management System/.idea/Hotel Management System.iml" filepath="$USER_HOME$/Desktop/Hotel Management System/.idea/Hotel Management System.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/hotel management System/.idea/Hotel Management System.iml" filepath="$USER_HOME$/Desktop/hotel management System/.idea/Hotel Management System.iml" />
       <module fileurl="file://$USER_HOME$/Desktop/Python Codes/.idea/Python Codes.iml" filepath="$USER_HOME$/Desktop/Python Codes/.idea/Python Codes.iml" />
+      <module fileurl="file://D:/Shivang/Python/Quiz_game/.idea/Quiz App.iml" filepath="D:/Shivang/Python/Quiz_game/.idea/Quiz App.iml" />
     </modules>
   </component>
 </project>

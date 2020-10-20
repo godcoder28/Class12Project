@@ -23,9 +23,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f914f33f-d835-4de8-8b70-221e682dc103" name="Default Changelist" comment="">
+      <change afterPath="$USER_HOME$/Desktop/python codes/employee.dat" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/python codes/file7.csv" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/python codes/test.dat" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/python codes/test2.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/python codes/tune2.mp3" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Class12project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Class12project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bill_ID_12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bill_ID_13" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,14 +63,8 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Desktop/python codes" />
     <option name="ROOT_SYNC" value="SYNC" />
-  </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="8dea4a3f-a7a0-44d8-83d8-4a0b366de26a" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$USER_HOME$/Desktop/python codes/bubble.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="JupyterTrust" id="c6f81a70-507a-4174-976f-08ce2499a8cb" />
   <component name="ProblemsViewState">
@@ -87,7 +89,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/Shivang/Python/Quiz_game" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -97,7 +99,7 @@
       <recent name="C:\Users\shiva\Documents\Class12project" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Binary Search Recursive">
+  <component name="RunManager" selected="Python.test2">
     <configuration name="Binary Search Recursive" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python Codes" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,6 +114,72 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/Python Codes/Binary Search Recursive.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Hotel Index" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Class12project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hotel Index.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Hotel_backend" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Class12project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hotel_backend.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="QuizApp_StandAlone" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Quiz App" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="D:/Shivang/Python/Quiz_game" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:/Shivang/Python/Quiz_game/QuizApp_StandAlone.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,50 +210,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bin test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python Codes" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/Python Codes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/Python Codes/bin test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="binary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python Codes" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/Python Codes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/Python Codes/binary.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="python" type="PythonConfigurationType" factoryName="Python">
       <module name="Class12project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -208,7 +232,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="remove line" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Codes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -216,12 +240,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/Python Codes" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/python codes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/Python Codes/remove line.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/python codes/test2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,17 +257,19 @@
     <list>
       <item itemvalue="Python.python" />
       <item itemvalue="Python.Binary Search Recursive" />
-      <item itemvalue="Python.binary" />
-      <item itemvalue="Python.remove line" />
-      <item itemvalue="Python.bin test" />
       <item itemvalue="Python.bin search" />
+      <item itemvalue="Python.Hotel Index" />
+      <item itemvalue="Python.QuizApp_StandAlone" />
+      <item itemvalue="Python.Hotel_backend" />
+      <item itemvalue="Python.test2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.Hotel_backend" />
+        <item itemvalue="Python.QuizApp_StandAlone" />
+        <item itemvalue="Python.Hotel Index" />
         <item itemvalue="Python.bin search" />
-        <item itemvalue="Python.bin test" />
-        <item itemvalue="Python.remove line" />
-        <item itemvalue="Python.binary" />
       </list>
     </recent_temporary>
   </component>
@@ -326,7 +352,14 @@
       <workItem from="1601040510542" duration="925000" />
       <workItem from="1601058965390" duration="37000" />
       <workItem from="1601450311482" duration="456000" />
-      <workItem from="1601451364663" duration="41000" />
+      <workItem from="1601451364663" duration="1889000" />
+      <workItem from="1601524239618" duration="486000" />
+      <workItem from="1601526927693" duration="1319000" />
+      <workItem from="1601982393665" duration="24000" />
+      <workItem from="1601982434003" duration="2222000" />
+      <workItem from="1602147016286" duration="404000" />
+      <workItem from="1602646080196" duration="1883000" />
+      <workItem from="1603173115323" duration="5461000" />
     </task>
     <task id="LOCAL-00001" summary="Created new Project">
       <created>1587912384441</created>
@@ -594,7 +627,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600845379919</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="class 12 hy practice-4">
+      <created>1601451444089</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1601451444089</updated>
+    </task>
+    <task id="LOCAL-00040" summary="pep formatting">
+      <created>1601984221729</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1601984221729</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -651,29 +698,18 @@
     <MESSAGE value="class 12 hy practice-2" />
     <MESSAGE value="class 12 hy practice-3" />
     <MESSAGE value="class 12 hy practice-4" />
-    <option name="LAST_COMMIT_MESSAGE" value="class 12 hy practice-4" />
+    <MESSAGE value="pep formatting" />
+    <option name="LAST_COMMIT_MESSAGE" value="pep formatting" />
   </component>
   <component name="WindowStateProjectService">
     <state x="395" y="91" key="#Inspections" timestamp="1594568692311">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="395" y="91" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1594568692311" />
-    <state x="654" y="275" key="#Notifications" timestamp="1594269961901">
+    <state x="543" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603173432788">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="654" y="275" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1594269961901" />
-    <state x="535" y="301" key="#Updates" timestamp="1594448944942">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="535" y="301" key="#Updates/0.0.1536.824@0.0.1536.824" timestamp="1594448944942" />
-    <state x="543" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594794612266">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="543" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1594794612266" />
-    <state x="517" y="249" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1594269636090">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="517" y="249" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.824@0.0.1536.824" timestamp="1594269636090" />
+    <state x="543" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1603173432788" />
     <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1601058718946">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -682,58 +718,58 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1600767518199" />
-    <state x="393" y="0" width="750" height="824" key="CommitChangelistDialog2" timestamp="1601450719309">
+    <state x="393" y="0" width="750" height="824" key="CommitChangelistDialog2" timestamp="1601984218384">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="0" width="750" height="824" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1601450719309" />
+    <state x="393" y="0" width="750" height="824" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1601984218384" />
     <state x="147" y="65" width="1228" height="687" key="DiffContextDialog" timestamp="1594568692935">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="147" y="65" width="1228" height="687" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1594568692935" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1601450388097">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1601984048603">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601450388097" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601984048603" />
     <state x="629" y="325" key="Github.Dialog.Accounts.Choose" timestamp="1598103735582">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="629" y="325" key="Github.Dialog.Accounts.Choose/0.0.1536.824@0.0.1536.824" timestamp="1598103735582" />
-    <state width="746" height="203" key="GridCell.Tab.0.bottom" timestamp="1601450768956">
+    <state width="1493" height="250" key="GridCell.Tab.0.bottom" timestamp="1603177377729">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601450768956" />
-    <state width="746" height="203" key="GridCell.Tab.0.center" timestamp="1601450768956">
+    <state width="1493" height="250" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603177377729" />
+    <state width="1493" height="250" key="GridCell.Tab.0.center" timestamp="1603177377729">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601450768956" />
-    <state width="746" height="203" key="GridCell.Tab.0.left" timestamp="1601450768956">
+    <state width="1493" height="250" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603177377729" />
+    <state width="1493" height="250" key="GridCell.Tab.0.left" timestamp="1603177377729">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601450768956" />
-    <state width="746" height="203" key="GridCell.Tab.0.right" timestamp="1601450768956">
+    <state width="1493" height="250" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603177377729" />
+    <state width="1493" height="250" key="GridCell.Tab.0.right" timestamp="1603177377729">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601450768956" />
-    <state width="746" height="190" key="GridCell.Tab.1.bottom" timestamp="1600798966005">
+    <state width="1493" height="250" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603177377729" />
+    <state width="746" height="252" key="GridCell.Tab.1.bottom" timestamp="1602648340585">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="190" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600798966005" />
-    <state width="746" height="190" key="GridCell.Tab.1.center" timestamp="1600798966005">
+    <state width="746" height="252" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602648340585" />
+    <state width="746" height="252" key="GridCell.Tab.1.center" timestamp="1602648340585">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="190" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600798966005" />
-    <state width="746" height="190" key="GridCell.Tab.1.left" timestamp="1600798966004">
+    <state width="746" height="252" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1602648340585" />
+    <state width="746" height="252" key="GridCell.Tab.1.left" timestamp="1602648340585">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="190" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600798966004" />
-    <state width="746" height="190" key="GridCell.Tab.1.right" timestamp="1600798966005">
+    <state width="746" height="252" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1602648340585" />
+    <state width="746" height="252" key="GridCell.Tab.1.right" timestamp="1602648340585">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="190" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600798966005" />
-    <state x="111" y="47" key="SettingsEditor" timestamp="1601451404373">
+    <state width="746" height="252" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1602648340585" />
+    <state x="111" y="47" key="SettingsEditor" timestamp="1601527100243">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="111" y="47" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601451404373" />
+    <state x="111" y="47" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601527100243" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1597688690171">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -742,10 +778,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="618" y="326" key="VCS.ChangelistChooser/0.0.1536.824@0.0.1536.824" timestamp="1597992588641" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600845382250">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1601984226027">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600845382250" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601984226027" />
     <state x="512" y="146" key="VcsDiffUtil.ChangesDialog" timestamp="1594568335569">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -758,18 +794,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="320" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1600797566318" />
+    <state x="53" y="597" width="607" height="237" key="dock-window-1" timestamp="1603176908301">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="53" y="597" width="607" height="237" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1603176908301" />
+    <state x="40" y="582" width="706" height="324" key="dock-window-2" timestamp="1603177245286">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="40" y="582" width="706" height="324" key="dock-window-2/0.0.1536.824@0.0.1536.824" timestamp="1603177245286" />
     <state width="600" height="428" key="javadoc.popup" timestamp="1597303376576">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="600" height="428" key="javadoc.popup/0.0.1536.824@0.0.1536.824" timestamp="1597303376576" />
-    <state x="410" y="139" width="700" height="530" key="recent.locations.popup" timestamp="1597330701806">
+    <state x="410" y="138" width="700" height="530" key="recent.locations.popup" timestamp="1603174232909">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="410" y="139" width="700" height="530" key="recent.locations.popup/0.0.1536.824@0.0.1536.824" timestamp="1597330701806" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1601450583948">
+    <state x="410" y="138" width="700" height="530" key="recent.locations.popup/0.0.1536.824@0.0.1536.824" timestamp="1603174232909" />
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1603175082995">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1601450583948" />
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603175082995" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Class12project$Test.coverage" NAME="Test Coverage Results" MODIFIED="1597867726538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -777,13 +821,15 @@
     <SUITE FILE_PATH="coverage/Class12project$remove_line.coverage" NAME="remove line Coverage Results" MODIFIED="1600789547886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Python Codes" />
     <SUITE FILE_PATH="coverage/Class12project$shifting.coverage" NAME="shifting Coverage Results" MODIFIED="1600699410937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Python Codes" />
     <SUITE FILE_PATH="coverage/Class12project$Binary_Search_Recursive.coverage" NAME="Binary Search Recursive Coverage Results" MODIFIED="1601450600465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Python Codes" />
+    <SUITE FILE_PATH="coverage/Class12project$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1603176756515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python codes" />
     <SUITE FILE_PATH="coverage/Class12project$lib.coverage" NAME="lib Coverage Results" MODIFIED="1588225212493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Class12project$QuizApp_StandAlone.coverage" NAME="QuizApp_StandAlone Coverage Results" MODIFIED="1601982803086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Shivang/Python/Quiz_game" />
     <SUITE FILE_PATH="coverage/Class12project$frame_test.coverage" NAME="frame test Coverage Results" MODIFIED="1588166162159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Class12project$binary.coverage" NAME="binary Coverage Results" MODIFIED="1600767429451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Python Codes" />
-    <SUITE FILE_PATH="coverage/Class12project$Hotel_Index.coverage" NAME="Hotel Index Coverage Results" MODIFIED="1599721335201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Class12project$bin_search.coverage" NAME="bin search Coverage Results" MODIFIED="1600798880660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Python Codes" />
+    <SUITE FILE_PATH="coverage/Class12project$Hotel_Index.coverage" NAME="Hotel Index Coverage Results" MODIFIED="1601527119308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Class12project$python.coverage" NAME="python Coverage Results" MODIFIED="1587911806173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/Class12project$Hotel_backend.coverage" NAME="Hotel_backend Coverage Results" MODIFIED="1587976580496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Class12project$Hotel_backend.coverage" NAME="Hotel_backend Coverage Results" MODIFIED="1603174458228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Class12project$Bubble_Game.coverage" NAME="Bubble Game Coverage Results" MODIFIED="1597865650660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Class12project$maingui.coverage" NAME="maingui Coverage Results" MODIFIED="1587975719029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Hotel Management System" />
     <SUITE FILE_PATH="coverage/Class12project$Bubble_Pop.coverage" NAME="Bubble Pop Coverage Results" MODIFIED="1597688767548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Python Codes" />

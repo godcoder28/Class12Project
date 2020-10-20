@@ -8,5 +8,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Python Codes" />
     <orderEntry type="module" module-name="Hotel Management System" />
+    <orderEntry type="module" module-name="Quiz App" />
   </component>
 </module>
