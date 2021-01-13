@@ -23,17 +23,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f914f33f-d835-4de8-8b70-221e682dc103" name="Default Changelist" comment="">
-      <change afterPath="$USER_HOME$/Desktop/python codes/employee.dat" afterDir="false" />
-      <change afterPath="$USER_HOME$/Desktop/python codes/file7.csv" afterDir="false" />
-      <change afterPath="$USER_HOME$/Desktop/python codes/test.dat" afterDir="false" />
-      <change afterPath="$USER_HOME$/Desktop/python codes/test2.py" afterDir="false" />
-      <change beforePath="$USER_HOME$/Desktop/python codes/tune2.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Class12project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Class12project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/python codes/28-10 Ques.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/python codes/Class 12 Practical.docx" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/python codes/File Handeling - practice.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/python codes/arithmetic.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/python codes/count is.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/python codes/data_old.txt" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/python codes/dice.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/python codes/fact- recursion.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/python codes/facto series 2.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/python codes/file handeling question.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/python codes/no of vowel-consonents" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/python codes/perfect no.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/python codes/str with p.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/python codes/~$ass 12 Practical.docx" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/python codes/Binary Search Recursive.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/python codes/Binary Search Recursive.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/python codes/Bubble Pop.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/python codes/Bubble_Pop_game.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/python codes/Bubble sort.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/python codes/Bubble sort.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/python codes/Compound Interest.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/python codes/Compound Interest.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/python codes/Pallindrome str.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/python codes/Pallindrome str.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/python codes/ap sum pattern.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/python codes/ap sum pattern.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/python codes/armstrong.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/python codes/armstrong.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/python codes/bin search.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/python codes/bin search.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/python codes/binary search.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/python codes/binary search.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/python codes/binary.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/python codes/binary.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/python codes/employee.dat" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/python codes/file7.csv" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/python codes/str with a.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/python codes/str with a.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/python codes/test.dat" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/python codes/test2.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bill_ID_12" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bill_ID_13" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +82,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Desktop/python codes" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="JupyterTrust" id="c6f81a70-507a-4174-976f-08ce2499a8cb" />
@@ -89,6 +108,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="D:/Shivang/Python/Quiz_game" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -99,7 +119,7 @@
       <recent name="C:\Users\shiva\Documents\Class12project" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test2">
+  <component name="RunManager" selected="Python.Hotel Index">
     <configuration name="Binary Search Recursive" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python Codes" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,51 +164,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Hotel_backend" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Class12project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hotel_backend.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="QuizApp_StandAlone" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Quiz App" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="D:/Shivang/Python/Quiz_game" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:/Shivang/Python/Quiz_game/QuizApp_StandAlone.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="bin search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="count is" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Codes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -196,12 +172,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/Python Codes" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/python codes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/Python Codes/bin search.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/python codes/count is.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Codes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/python codes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/python codes/dice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="file handeling question" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Codes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/python codes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/python codes/file handeling question.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -232,7 +252,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="str with p" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Codes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -245,7 +265,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/python codes/test2.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/python codes/str with p.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -255,21 +275,21 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.python" />
       <item itemvalue="Python.Binary Search Recursive" />
-      <item itemvalue="Python.bin search" />
+      <item itemvalue="Python.python" />
+      <item itemvalue="Python.dice" />
+      <item itemvalue="Python.file handeling question" />
+      <item itemvalue="Python.count is" />
+      <item itemvalue="Python.str with p" />
       <item itemvalue="Python.Hotel Index" />
-      <item itemvalue="Python.QuizApp_StandAlone" />
-      <item itemvalue="Python.Hotel_backend" />
-      <item itemvalue="Python.test2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test2" />
-        <item itemvalue="Python.Hotel_backend" />
-        <item itemvalue="Python.QuizApp_StandAlone" />
         <item itemvalue="Python.Hotel Index" />
-        <item itemvalue="Python.bin search" />
+        <item itemvalue="Python.str with p" />
+        <item itemvalue="Python.count is" />
+        <item itemvalue="Python.file handeling question" />
+        <item itemvalue="Python.dice" />
       </list>
     </recent_temporary>
   </component>
@@ -360,6 +380,16 @@
       <workItem from="1602147016286" duration="404000" />
       <workItem from="1602646080196" duration="1883000" />
       <workItem from="1603173115323" duration="5461000" />
+      <workItem from="1603854063585" duration="3604000" />
+      <workItem from="1604377541880" duration="1829000" />
+      <workItem from="1605085032700" duration="1730000" />
+      <workItem from="1605352414865" duration="8000" />
+      <workItem from="1606974215583" duration="843000" />
+      <workItem from="1608086829723" duration="606000" />
+      <workItem from="1610345585020" duration="82000" />
+      <workItem from="1610345849647" duration="826000" />
+      <workItem from="1610446856816" duration="1790000" />
+      <workItem from="1610544859855" duration="9353000" />
     </task>
     <task id="LOCAL-00001" summary="Created new Project">
       <created>1587912384441</created>
@@ -702,54 +732,42 @@
     <option name="LAST_COMMIT_MESSAGE" value="pep formatting" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="395" y="91" key="#Inspections" timestamp="1594568692311">
+    <state x="361" y="53" key="#Plugins" timestamp="1610345910068">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="395" y="91" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1594568692311" />
-    <state x="543" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603173432788">
+    <state x="361" y="53" key="#Plugins/0.0.1536.824@0.0.1536.824" timestamp="1610345910068" />
+    <state x="543" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610546413267">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="543" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1603173432788" />
-    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1601058718946">
+    <state x="543" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1610546413267" />
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1610345612754">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1601058718946" />
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600767518199">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1600767518199" />
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1610345612754" />
     <state x="393" y="0" width="750" height="824" key="CommitChangelistDialog2" timestamp="1601984218384">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="393" y="0" width="750" height="824" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1601984218384" />
-    <state x="147" y="65" width="1228" height="687" key="DiffContextDialog" timestamp="1594568692935">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="147" y="65" width="1228" height="687" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1594568692935" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1601984048603">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601984048603" />
-    <state x="629" y="325" key="Github.Dialog.Accounts.Choose" timestamp="1598103735582">
+    <state width="747" height="203" key="GridCell.Tab.0.bottom" timestamp="1610554582410">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="629" y="325" key="Github.Dialog.Accounts.Choose/0.0.1536.824@0.0.1536.824" timestamp="1598103735582" />
-    <state width="1493" height="250" key="GridCell.Tab.0.bottom" timestamp="1603177377729">
+    <state width="747" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610554582410" />
+    <state width="747" height="203" key="GridCell.Tab.0.center" timestamp="1610554582409">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="250" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603177377729" />
-    <state width="1493" height="250" key="GridCell.Tab.0.center" timestamp="1603177377729">
+    <state width="747" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610554582409" />
+    <state width="747" height="203" key="GridCell.Tab.0.left" timestamp="1610554582409">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="250" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603177377729" />
-    <state width="1493" height="250" key="GridCell.Tab.0.left" timestamp="1603177377729">
+    <state width="747" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610554582409" />
+    <state width="747" height="203" key="GridCell.Tab.0.right" timestamp="1610554582409">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="250" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603177377729" />
-    <state width="1493" height="250" key="GridCell.Tab.0.right" timestamp="1603177377729">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="250" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603177377729" />
+    <state width="747" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610554582409" />
     <state width="746" height="252" key="GridCell.Tab.1.bottom" timestamp="1602648340585">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -766,34 +784,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="746" height="252" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1602648340585" />
-    <state x="111" y="47" key="SettingsEditor" timestamp="1601527100243">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="111" y="47" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601527100243" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1597688690171">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1597688690171" />
-    <state x="618" y="326" key="VCS.ChangelistChooser" timestamp="1597992588641">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="618" y="326" key="VCS.ChangelistChooser/0.0.1536.824@0.0.1536.824" timestamp="1597992588641" />
     <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1601984226027">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601984226027" />
-    <state x="512" y="146" key="VcsDiffUtil.ChangesDialog" timestamp="1594568335569">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="512" y="146" key="VcsDiffUtil.ChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1594568335569" />
-    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597991895622">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1597991895622" />
-    <state x="320" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1600797566318">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="320" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1600797566318" />
     <state x="53" y="597" width="607" height="237" key="dock-window-1" timestamp="1603176908301">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -802,10 +796,6 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="40" y="582" width="706" height="324" key="dock-window-2/0.0.1536.824@0.0.1536.824" timestamp="1603177245286" />
-    <state width="600" height="428" key="javadoc.popup" timestamp="1597303376576">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="600" height="428" key="javadoc.popup/0.0.1536.824@0.0.1536.824" timestamp="1597303376576" />
     <state x="410" y="138" width="700" height="530" key="recent.locations.popup" timestamp="1603174232909">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -822,18 +812,27 @@
     <SUITE FILE_PATH="coverage/Class12project$shifting.coverage" NAME="shifting Coverage Results" MODIFIED="1600699410937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Python Codes" />
     <SUITE FILE_PATH="coverage/Class12project$Binary_Search_Recursive.coverage" NAME="Binary Search Recursive Coverage Results" MODIFIED="1601450600465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Python Codes" />
     <SUITE FILE_PATH="coverage/Class12project$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1603176756515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python codes" />
-    <SUITE FILE_PATH="coverage/Class12project$lib.coverage" NAME="lib Coverage Results" MODIFIED="1588225212493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Class12project$str_with_a.coverage" NAME="str with a Coverage Results" MODIFIED="1610546285751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python codes" />
     <SUITE FILE_PATH="coverage/Class12project$QuizApp_StandAlone.coverage" NAME="QuizApp_StandAlone Coverage Results" MODIFIED="1601982803086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Shivang/Python/Quiz_game" />
     <SUITE FILE_PATH="coverage/Class12project$frame_test.coverage" NAME="frame test Coverage Results" MODIFIED="1588166162159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Class12project$binary.coverage" NAME="binary Coverage Results" MODIFIED="1600767429451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Python Codes" />
-    <SUITE FILE_PATH="coverage/Class12project$bin_search.coverage" NAME="bin search Coverage Results" MODIFIED="1600798880660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Python Codes" />
+    <SUITE FILE_PATH="coverage/Class12project$file_handeling_question.coverage" NAME="file handeling question Coverage Results" MODIFIED="1610550761798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python codes" />
     <SUITE FILE_PATH="coverage/Class12project$Hotel_Index.coverage" NAME="Hotel Index Coverage Results" MODIFIED="1601527119308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Class12project$str_with_p.coverage" NAME="str with p Coverage Results" MODIFIED="1610554582383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python codes" />
     <SUITE FILE_PATH="coverage/Class12project$python.coverage" NAME="python Coverage Results" MODIFIED="1587911806173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Class12project$dice.coverage" NAME="dice Coverage Results" MODIFIED="1610550499434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python codes" />
     <SUITE FILE_PATH="coverage/Class12project$Hotel_backend.coverage" NAME="Hotel_backend Coverage Results" MODIFIED="1603174458228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Class12project$Bubble_Game.coverage" NAME="Bubble Game Coverage Results" MODIFIED="1597865650660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Class12project$Binary_Search_Recursive__1_.coverage" NAME="Binary Search Recursive (1) Coverage Results" MODIFIED="1610447129327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python codes" />
+    <SUITE FILE_PATH="coverage/Class12project$file_handeling.coverage" NAME="file handeling Coverage Results" MODIFIED="1598337645477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Python Codes" />
+    <SUITE FILE_PATH="coverage/Class12project$count_is.coverage" NAME="count is Coverage Results" MODIFIED="1610554441819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python codes" />
+    <SUITE FILE_PATH="coverage/Class12project$arithmetic.coverage" NAME="arithmetic Coverage Results" MODIFIED="1610346508068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python codes" />
+    <SUITE FILE_PATH="coverage/Class12project$no_of_vowel_consonents.coverage" NAME="no of vowel-consonents Coverage Results" MODIFIED="1610548349381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python codes" />
+    <SUITE FILE_PATH="coverage/Class12project$28_10_Ques.coverage" NAME="28-10 Ques Coverage Results" MODIFIED="1603855467116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python codes" />
+    <SUITE FILE_PATH="coverage/Class12project$lib.coverage" NAME="lib Coverage Results" MODIFIED="1588225212493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Class12project$bin_search.coverage" NAME="bin search Coverage Results" MODIFIED="1600798880660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Python Codes" />
     <SUITE FILE_PATH="coverage/Class12project$maingui.coverage" NAME="maingui Coverage Results" MODIFIED="1587975719029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Hotel Management System" />
     <SUITE FILE_PATH="coverage/Class12project$Bubble_Pop.coverage" NAME="Bubble Pop Coverage Results" MODIFIED="1597688767548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Python Codes" />
-    <SUITE FILE_PATH="coverage/Class12project$file_handeling.coverage" NAME="file handeling Coverage Results" MODIFIED="1598337645477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Python Codes" />
     <SUITE FILE_PATH="coverage/Class12project$bin_test.coverage" NAME="bin test Coverage Results" MODIFIED="1600798551689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Python Codes" />
   </component>
 </project>
